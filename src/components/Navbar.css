@@ -1,7 +1,7 @@
 /* navbar on the top */
 
 .navbar {
-    background-color: #b7e2be;
+    background-color: #479254;
     height: 80px;
     display: flex;
     justify-content: start;
@@ -17,7 +17,7 @@
   /* sidebar */
 
   .nav-menu {
-    background-color: #b7e2be;
+    background-color: #479254;
     width: 250px;
     height: 100vh;
     display: flex;
@@ -55,7 +55,7 @@
   }
   
   .nav-text a:hover {
-    background-color: #479254;
+    background-color: #2b6334;
   }
   
   .nav-menu-items {
@@ -64,7 +64,7 @@
   
   /* component that opens up the sidebar */ 
   .navbar-toggle {
-    background-color: #b7e2be;
+    background-color: #479254;
     width: 100%;
     height: 80px;
     display: flex;
